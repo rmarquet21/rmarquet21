@@ -11,7 +11,6 @@ I'm Robin Marquet, I'm 21 years old.
 ## Social media
 
 [![Discord](https://img.shields.io/discord/759460462105854022?label=rmarquet%232048&style=for-the-badge&logo=discord&logoColor=ffffff)](https://github.com/rmarquet21)
-‎‎ [![Twitter Follow](https://img.shields.io/twitter/follow/MrqtRobin?color=%231DA1F2&label=Twitter&style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/MrqtRobin)
 ‎‎ [![Github Follow](https://img.shields.io/github/followers/rmarquet21?logo=github&logoColor=ffffff&style=for-the-badge)](https://github.com/rmarquet21)
 
 ## Current projects
