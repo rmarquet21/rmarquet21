@@ -22,9 +22,9 @@ I'm Robin Marquet, I'm 21 years old.
 ## My weekly Waka stats
 
 <!--START_SECTION:waka-->
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-345-blue)
-
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 ## Credits
