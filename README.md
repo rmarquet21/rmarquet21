@@ -22,7 +22,11 @@ I'm Robin Marquet, I'm 21 years old.
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python       52 mins         ████████▒░░░░░░░░░░░░░░░░   32.70 % 
+YAML         39 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.75 % 
+JavaScript   31 mins         █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+GraphQL      18 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Other        6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
 ```
 <!--END_SECTION:waka-->
 
