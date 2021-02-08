@@ -25,7 +25,7 @@ I'm Robin Marquet, I'm 21 years old.
 
 **🐱 My Github Data** 
 
-> 🏆 11 Contributions in the Year 2021
+> 🏆 12 Contributions in the Year 2021
  > 
 > 📦 986.7 kB Used in Github's Storage 
  > 
