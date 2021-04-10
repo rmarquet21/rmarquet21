@@ -21,13 +21,13 @@ I'm Robin Marquet, I'm 21 years old.
 ## My weekly Waka stats
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 15 Contributions in the Year 2021
  > 
-> 📦 982.2 kB Used in Github's Storage 
+> 📦 982.3 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
