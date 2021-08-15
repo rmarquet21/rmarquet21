@@ -27,7 +27,7 @@ I'm Robin Marquet, I'm 21 years old.
 
 > 🏆 17 Contributions in the Year 2021
  > 
-> 📦 987.2 kB Used in Github's Storage 
+> 📦 987.3 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -100,7 +100,7 @@ PHP                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/08/2021
+ Last Updated on 15/08/2021
 <!--END_SECTION:waka-->
 
 ## Credits
