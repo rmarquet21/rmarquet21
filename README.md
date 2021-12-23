@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Robin Marquet, I'm 21 years old.
+I'm Robin Marquet, I'm 22 years old.
 
 - 👨‍💻 I'm students in digital transformation in Lyon in France.
 - 🌱 I work a lot with Javascript especially with NodeJS and but I much prefet python, C, C++, C#, java...
