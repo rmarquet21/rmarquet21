@@ -3,10 +3,12 @@
 I'm Robin Marquet, I'm 22 years old.
 
 - 👨‍💻 I'm students in digital transformation in Lyon in France.
-- 🌱 I work a lot with Javascript especially with NodeJS and but I much prefet python, C, C++, C#, java...
+- 🌱 My most used languages are Python and JavaScript.
 - 🎮 I like gaming but I never know which games I wanna play and never play a game for long!
 - 👯‍♀️ While I don't work much with others, I like to discuss coding with others and learn more.
 - ❓ Want to know more about me? You can always contact me via serval social medias!
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,dart,discord,docker,express,figma,firebase,graphql,mongodb,mysql,nodejs,py,react,ts,vue)](https://skillicons.dev)
 
 ## My weekly Waka stats
 
