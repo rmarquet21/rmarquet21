@@ -8,7 +8,7 @@ I'm Robin Marquet, I'm 22 years old.
 - 👯‍♀️ While I don't work much with others, I like to discuss coding with others and learn more.
 - ❓ Want to know more about me? You can always contact me via serval social medias!
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,dart,discord,docker,express,figma,firebase,graphql,mongodb,mysql,nodejs,py,react,ts,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,express,figma,firebase,graphql,mongodb,mysql,nodejs,py,react,ts,vue)](https://skillicons.dev)
 
 ## My weekly Waka stats
 
