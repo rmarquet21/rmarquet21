@@ -13,6 +13,8 @@ I'm Robin Marquet, I'm 22 years old.
 ## My weekly Waka stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -95,5 +97,5 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/rmarquet21/rmarquet21/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/05/2022 01:48:16 UTC
+ Last Updated on 08/05/2022 02:02:48 UTC
 <!--END_SECTION:waka-->
