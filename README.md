@@ -1,14 +1,13 @@
 ## Hi there 👋
 
-I'm Robin Marquet, I'm 22 years old.
+I am Robin Marquet, I am 23 years old.
 
-- 👨‍💻 I'm students in digital transformation in Lyon in France.
-- 🌱 My most used languages are Python and JavaScript.
-- 🎮 I like gaming but I never know which games I wanna play and never play a game for long!
-- 👯‍♀️ While I don't work much with others, I like to discuss coding with others and learn more.
-- ❓ Want to know more about me? You can always contact me via serval social medias!
+- 👨‍💻 I am a Machine Learning student in Lyon, France.
+- 🌱 My most used languages are Python and TypeScript.
+- 👯‍♀️ I enjoy discussing code with others and learning more.
+- ❓ Do you want to know more about me? You can always contact me via serval social networks!
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,express,figma,firebase,graphql,mongodb,mysql,nodejs,py,react,ts,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,docker,express,figma,firebase,graphql,nodejs,react,ts,vue,py,pytorch)](https://skillicons.dev)
 
 ## My weekly Waka stats
 
