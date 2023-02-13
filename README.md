@@ -21,6 +21,7 @@ I am proficient in programming languages such as Python, TensorFlow, PyTorch, et
 💬 Let's talk about Machine Learning:</br>
 I believe that Machine Learning will play a crucial role in shaping the future and I am excited to be a part of this revolution. If you have any questions or ideas on ML, let's have a chat! 😊
 </br></br>
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,docker,express,figma,firebase,graphql,nodejs,react,ts,vue,py,pytorch)](https://skillicons.dev)
 
 ## My weekly Waka stats
