@@ -29,7 +29,8 @@ I believe that Machine Learning will play a crucial role in shaping the future a
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+TypeScript   5 hrs 20 mins   ████████████████████░░░░░   79.77 %
+Python       1 hr 21 mins    █████░░░░░░░░░░░░░░░░░░░░   20.23 %
 ```
 
 <!--END_SECTION:waka-->
