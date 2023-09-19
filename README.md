@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-💻🤖 I am a 23-year-old developer, passionate about Machine Learning.</br>
+💻🤖 I am a 24-year-old developer, passionate about Machine Learning.</br>
 
 🎓 Education:</br>
 I have a master's degree in Computer Science with specialization in machine learning and I am constantly learning and updating my skills.
