@@ -12,7 +12,7 @@ I am proficient in a wide range of programming languages, tools, and technologie
 - **Machine Learning Frameworks:** TensorFlow, PyTorch, scikit-learn
 - **Web Development:** Vue.js, React.js, TypeScript, HTML, CSS
 - **Backend Development:** Python, Flask, FastAPI
-- **Databases:** SQL, NoSQL, Big Data (mention specific databases or technologies if applicable)
+- **Databases:** PostgreSQL, SQLite, MongoDB
 - **Data Science:** Data preprocessing, feature selection, model evaluation
 - **Other Skills:** Docker, Express.js, Figma, Firebase, GraphQL, Node.js
 
