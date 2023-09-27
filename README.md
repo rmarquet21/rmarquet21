@@ -36,7 +36,6 @@ Some of my notable projects include:
 - 📈 Stock Price Prediction using LSTM
 - 🤖 Image Classification using Convolutional Neural Networks
 - 🔍 Customer Segmentation using K-Means Clustering
-- [Link to your GitHub profile or project portfolio]
 
 💬 **Let's talk about Machine Learning:**
 I believe that Machine Learning will play a crucial role in shaping the future, and I am excited to be a part of this revolution. If you have any questions or ideas on ML, let's have a chat! 😊
