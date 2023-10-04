@@ -48,11 +48,11 @@ I believe that Machine Learning will play a crucial role in shaping the future, 
 <!--START_SECTION:waka-->
 
 ```txt
-GDScript3      17 hrs 40 mins  ██████████░░░░░░░░░░░░░░░   39.47 %
-Python         11 hrs 46 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.27 %
-YAML           3 hrs 46 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
-Docker         3 hrs 16 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
-Other          1 hr 48 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+GDScript3    19 hrs 35 mins  ███████████▒░░░░░░░░░░░░░   45.99 %
+Python       13 hrs 17 mins  ███████▓░░░░░░░░░░░░░░░░░   31.19 %
+Other        1 hr 48 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
+YAML         1 hr 43 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+Markdown     1 hr 36 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
 ```
 
 <!--END_SECTION:waka-->
