@@ -48,11 +48,11 @@ I believe that Machine Learning will play a crucial role in shaping the future, 
 <!--START_SECTION:waka-->
 
 ```txt
-Python           30 hrs 23 mins  ███████████████████░░░░░░   76.24 %
-Assembly         2 hrs 55 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
-Prolog           1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
-TypeScript       56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-Bash             49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+Python           25 hrs 57 mins  ██████████████████▒░░░░░░   73.69 %
+Assembly         2 hrs 55 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
+Docker           1 hr 23 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
+Prolog           1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+TypeScript       56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
 ```
 
 <!--END_SECTION:waka-->
