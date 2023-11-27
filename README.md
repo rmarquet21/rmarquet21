@@ -48,11 +48,11 @@ I believe that Machine Learning will play a crucial role in shaping the future, 
 <!--START_SECTION:waka-->
 
 ```txt
-Python       29 hrs 49 mins  ██████████████████████░░░   87.64 %
-Other        2 hrs 6 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
-CSV          38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
-JSON         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-Docker       24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+Python       30 hrs 4 mins   ███████████████████▒░░░░░   77.61 %
+TypeScript   4 hrs 8 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 %
+Other        2 hrs 6 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
+JSON         41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+CSV          38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
 ```
 
 <!--END_SECTION:waka-->
