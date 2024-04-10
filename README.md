@@ -48,11 +48,11 @@ I believe that Machine Learning will play a crucial role in shaping the future, 
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         1 hr 39 mins    ███████▒░░░░░░░░░░░░░░░░░   29.37 %
-Prisma       1 hr 8 mins     █████░░░░░░░░░░░░░░░░░░░░   20.44 %
-Markdown     1 hr 2 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.60 %
-TypeScript   52 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.53 %
-YAML         36 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.71 %
+TypeScript   6 hrs 27 mins   ███████████░░░░░░░░░░░░░░   44.26 %
+Prisma       2 hrs 32 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.37 %
+JSON         2 hrs 30 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.19 %
+Markdown     1 hr 7 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
+YAML         45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
 ```
 
 <!--END_SECTION:waka-->
