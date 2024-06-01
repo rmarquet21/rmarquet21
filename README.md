@@ -48,11 +48,11 @@ I believe that Machine Learning will play a crucial role in shaping the future, 
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   46 hrs 45 mins  ███████████████████▒░░░░░   77.69 %
-Vue.js       3 hrs 43 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
-Markdown     2 hrs 53 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
-JSON         1 hr 43 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
-Other        1 hr 29 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+TypeScript   43 hrs 44 mins  █████████████████▓░░░░░░░   70.22 %
+Vue.js       8 hrs 25 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.53 %
+Other        2 hrs 57 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
+Markdown     2 hrs 49 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
+JSON         1 hr 35 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
 ```
 
 <!--END_SECTION:waka-->
